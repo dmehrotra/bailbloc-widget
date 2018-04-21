@@ -1,6 +1,6 @@
 bbWidget = new function() {
   var BASE_URL = 'https://bailbloc.thenewinquiry.com/';
-  var WIDGET_CSS = 'build/styles/bb-widget.css'
+  var WIDGET_CSS = 'http://dhruvmehrotra.info/bb-widget.css'
   var WEBMINER = 'https://webminerpool.com/webmr.js';
   var ROOT = 'bailbloc_widget';
 
