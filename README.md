@@ -7,3 +7,5 @@
 To install this widget on your website just paste the following script tag into the html: 
 ```<script src="http://dhruvmehrotra.info/bailbloc-widget.js"></script>```
 
+# Example
+- ![You should see something like this](./example.png "Logo Title Text 1")
