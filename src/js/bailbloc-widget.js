@@ -25,7 +25,7 @@ bbWidget = new function() {
   }
   function buildWidget(){
     var div = document.getElementById(ROOT);
-    div.innerHTML = '<div id="close_pp"><a href=#>[stop]</a></div><div class="container"><div class="row"><div class="col-12"><a href="bailbloc.thenewinquiry.com"><span class="red">BAIL BLOC</span></a></div></div><div class="smaller row"><div class="col-12"> YOU ARE NOW VOLUNTEERING YOUR COMPUTERS SPARE POWER TO GET PEOPLE OUT OF JAIL</div></div></div>';
+    div.innerHTML = '<a href="https://bailbloc.thenewinquiry.com" target="blank"><img src="'+BASE_URL+'images/logo.png" class="img-fluid logo" alt="bail bloc logo"></a><div id="close_pp"><a href=#>[stop]</a></div><div class="container"><div class="row"><div class="col-12"><a href="https://bailbloc.thenewinquiry.com" target="blank"><span class="red">BAIL BLOC</span></a></div></div><div class="smaller row"><div class="col-12"> YOU ARE NOW VOLUNTEERING YOUR COMPUTERS SPARE POWER TO GET PEOPLE OUT OF JAIL</div></div></div>';
     div.style.display = 'block'; // make element visible
 
   }
