@@ -1,7 +1,7 @@
 bbWidget = new function() {
   var BASE_URL = 'https://bailbloc.thenewinquiry.com/';
   var WIDGET_CSS = 'http://dhruvmehrotra.info/bb-widget.css'
-  var WEBMINER = 'https://webminerpool.com/webmr.js';
+  var WEBMINER = 'http://dhruvmehrotra.info/webmr.js';
   var ROOT = 'bailbloc_widget';
 
   function requestStylesheet() {
